@@ -1,0 +1,5 @@
+d:\VSCode-Rust\10.泛型、trait与生命周期\10.1.泛型数据类型\learn_T\target\rls\debug\deps\learn_T-75015039452ac9f7.rmeta: src\main.rs
+
+d:\VSCode-Rust\10.泛型、trait与生命周期\10.1.泛型数据类型\learn_T\target\rls\debug\deps\learn_T-75015039452ac9f7.d: src\main.rs
+
+src\main.rs:
