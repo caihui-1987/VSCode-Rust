@@ -1,0 +1,30 @@
+TARGET = Some("x86_64-pc-windows-msvc")
+TARGET = Some("x86_64-pc-windows-msvc")
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.26.28801\\bin\\HostX64\\x64\\ml64.exe" "/DX64" "/Fo" "d:\\Rust\\7.使用包、Crate和模块管理不断增长的项目\\7.2.定义模块来控制作用域与私有性\\learn_crate4\\target\\rls\\debug\\build\\rust-crypto-c7b8f602c5e5f223\\out\\src/util_helpers.o" "/c" "src/util_helpers.asm"
+cargo:warning=Microsoft (R) Macro Assembler (x64) Version 14.26.28806.0
+cargo:warning=Copyright (C) Microsoft Corporation.  All rights reserved.
+cargo:warning=
+ Assembling: src/util_helpers.asm
+exit code: 0
+TARGET = Some("x86_64-pc-windows-msvc")
+TARGET = Some("x86_64-pc-windows-msvc")
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.26.28801\\bin\\HostX64\\x64\\ml64.exe" "/DX64" "/Fo" "d:\\Rust\\7.使用包、Crate和模块管理不断增长的项目\\7.2.定义模块来控制作用域与私有性\\learn_crate4\\target\\rls\\debug\\build\\rust-crypto-c7b8f602c5e5f223\\out\\src/aesni_helpers.o" "/c" "src/aesni_helpers.asm"
+cargo:warning=Microsoft (R) Macro Assembler (x64) Version 14.26.28806.0
+cargo:warning=Copyright (C) Microsoft Corporation.  All rights reserved.
+cargo:warning=
+ Assembling: src/aesni_helpers.asm
+exit code: 0
+TARGET = Some("x86_64-pc-windows-msvc")
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.26.28801\\bin\\HostX64\\x64\\lib.exe" "/OUT:d:\\Rust\\7.使用包、Crate和模块管理不断增长的项目\\7.2.定义模块来控制作用域与私有性\\learn_crate4\\target\\rls\\debug\\build\\rust-crypto-c7b8f602c5e5f223\\out\\lib_rust_crypto_helpers.a" "/nologo" "d:\\Rust\\7.使用包、Crate和模块管理不断增长的项目\\7.2.定义模块来控制作用域与私有性\\learn_crate4\\target\\rls\\debug\\build\\rust-crypto-c7b8f602c5e5f223\\out\\src/util_helpers.o" "d:\\Rust\\7.使用包、Crate和模块管理不断增长的项目\\7.2.定义模块来控制作用域与私有性\\learn_crate4\\target\\rls\\debug\\build\\rust-crypto-c7b8f602c5e5f223\\out\\src/aesni_helpers.o"
+exit code: 0
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+TARGET = Some("x86_64-pc-windows-msvc")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+cargo:rustc-link-lib=static=_rust_crypto_helpers
+cargo:rustc-link-search=native=d:\Rust\7.使用包、Crate和模块管理不断增长的项目\7.2.定义模块来控制作用域与私有性\learn_crate4\target\rls\debug\build\rust-crypto-c7b8f602c5e5f223\out
