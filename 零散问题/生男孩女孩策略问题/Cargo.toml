@@ -1,0 +1,10 @@
+[package]
+name = "生男孩女孩策略问题"
+version = "0.1.0"
+authors = ["caihui-1987 <68584593+caihui-1987@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.5.5"
